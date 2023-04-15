@@ -1,0 +1,55 @@
+body {
+  
+  background-color: #272727;
+}
+ul{
+  list-style-type: none;
+}
+.welcome-page-intro{
+  background-image:url("https://s1.ticketm.net/dam/a/c26/f3bc3686-a6c2-4324-a6cb-18ab2441ac26_1339991_TABLET_LANDSCAPE_LARGE_16_9.jpg") ;
+  color: beige;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 1.0);
+  padding: 20px;
+  display: flexbox;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  
+}
+.greeting-container{
+  margin-left: 350px;
+}
+
+.input-field{
+  margin-bottom: 10px;
+}
+
+.nav-api-endpoints{
+  margin-left: 40px;
+}
+.main-content{
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  padding: 50px;
+}
+.player-info-cards{
+  align-items: center;
+}
+.stats-this-season-btn,
+.stats-for-player-btn,
+.match-stats-btn {
+  border: none;
+  padding: 10px;
+  margin-right: 0;
+  font-weight: 900;
+}
+.submit{
+  border: none;
+}
+
+.footer{
+  margin-top: 400px;
+  background-color: #868686;
+  padding: 10px;
+}
